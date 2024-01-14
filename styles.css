@@ -19,5 +19,8 @@ body {
 
 .animate__animated.animate__bounceIn {
   --animate-duration: 10s;
+}
+
+.rede {
   color: red;
 }
